@@ -38,7 +38,7 @@ sudo apt install tesseract-ocr poppler-utils  # For OCR and PDF image conversion
 3. Run the Python script:
 
     ```bash
-    python web.py
+    python scrapbot.py
     ```
 
 4. When prompted, enter the base URL of the website you wish to scrape. For example:
